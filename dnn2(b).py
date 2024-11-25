@@ -1,4 +1,4 @@
-# Identify the problem with single unit perceptron . Classify using OR , AND , XOR data and analyse the result 
+# 2(b)Identify the problem with single unit perceptron . Classify using OR , AND , XOR data and analyse the result 
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import Perceptron
